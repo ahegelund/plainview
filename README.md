@@ -7,7 +7,25 @@
 ## Executive Summary
 This repository documents the research and unit economics for a proposed home CPU mining operation ("Plainview"). 
 
-**Conclusion:** Despite a significant 2026 Danish electricity tax reduction (from 1.6 to 0.71 DKK/kWh), the operation remains economically unviable. The projected payback period exceeds **30 years**, far outlasting hardware lifespan.
+**Conclusion:** **NO-GO.** Home CPU mining in Denmark is economically unviable and will remain so through 2030 under standard conditions.
+
+## Final Verdict: The 2026-2030 Outlook
+Comprehensive analysis of 5 core variables + 5 alternative scenarios yields a definitive investment capability rating.
+
+| Scenario | Payback Period | Verdict | Notes |
+| :--- | :--- | :--- | :--- |
+| **Standard Mining** | **Infinite (Loss)** | **HARD NO** | Capital destruction. |
+| **Selective Mining** | **38 Years** | **NO** | Tiny profit (€28/yr) doesn't justify hardware. |
+| **Alternative Hardware** | **14-20 Years** | **NO** | No CPU exists that beats the efficiency constraint. |
+| **Alternative Pools** | **15 Years** | **NO** | Marginal gains (<5%) from auto-switching. |
+| **Qubic (AI Training)** | **3.0 Years** | **SPECULATIVE BUY** | Viable *only* if you accept high startup risk. |
+| **Electricity Rate Lock** | **7.3 Years** | **MAYBE** | Viable *only* if you secure <0.85 DKK/kWh fixed rate. |
+
+> [!CRITICAL]
+> **Strategic Recommendation:**
+> Do not invest in hardware for mining revenue. The risk-free return of an index fund (S&P 500) outperforms even the *best-case* mining scenario by 2.8x.
+>
+> **Only Build If:** You treat the hardware cost as an "Educational Fee" or "Hobby Expense" with zero expectation of financial return.
 
 ## Unit Economics (2026 Verified Figures)
 
