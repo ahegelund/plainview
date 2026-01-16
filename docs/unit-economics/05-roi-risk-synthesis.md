@@ -36,7 +36,21 @@ The unit economics only work if:
 - **Best Case Scenario**: If revenue is 50% higher than estimated (optimistic luck/pricing), annual profit becomes ~130 kr.
     - Resulting Payback: **33 Years**.
 
-## 4. Risks
+## 5. Alternative Scenarios (The "What Ifs")
+Research into alternative coins (Qubic, Zephyr, etc.) and scenarios reveals detailed probabilities for viability:
+
+| Changepoint | Impact on Payback | Likelihood | Recommendation |
+| :-- | :-- | :-- | :-- |
+| **Electricity Locked <0.85 DKK** | 14.86 → 7.3 yrs | 45% | **Critical Path**. Only factor you can control. |
+| **XMR >$823 USD** | 14.86 → 8.0 yrs | 45% | Market Dependent. |
+| **Qubic (AI Training) 2x+** | 14.86 → 3.0 yrs | 15-25% | High Risk / Speculative. |
+| **Combined Factors** | 14.86 → 2.3 yrs | 4-6% | Lottery odds. |
+
+> [!TIP]
+> **Strategic Pivot**: If you can secure a renewable energy co-op rate of **<0.50 DKK/kWh** for 4+ years, the project becomes viable (7-year payback). Without this rate lock, the "NO-GO" stands.
+
+## 6. Risks
 - **Electricity Price**: If the 2026 tax cut expires in 2028, costs double, ensuring total loss.
+
 - **Hardware Failure**: Any component failure wipes out >10 years of "profit".
 - **Opportunity Cost**: Putting 8,000 kr into an index fund (7% yield) earns 560 kr/year—**double the mining profit, with zero work.**

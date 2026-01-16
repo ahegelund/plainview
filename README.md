@@ -39,6 +39,11 @@ The following figures use verified conservative estimates for Monero (RandomX) m
     - Resulting Payback: **38 Years** (Still unviable).
 - **Risk**: If the 2026 electricity tax cut expires in 2028, operating costs double, guaranteeing heavy losses.
 
+### 4. Alternative Strategies
+Only two scenarios offer material viability:
+1. **Qubic (AI Training)**: Potentially 3x revenue uplift, but high speculative risk (micro-cap token).
+2. **Rate Lock**: Securing a fixed electricity rate <0.85 DKK/kWh (e.g., via energy co-op) reduces payback to ~7 years.
+
 ## Critical Discrepancy Note
 Initial research files contained a discrepancy where revenue was artificially doubled in the Cost analysis. This repository corrects that error. **We rely on the verified revenue of ~0.03 EUR/kH/day.**
 
