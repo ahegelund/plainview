@@ -1,0 +1,21 @@
+# Environment Variables
+.env
+.env.local
+.local.env
+.env.*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
+
+# Brain/Agent
+.gemini/
