@@ -22,5 +22,8 @@ The original prompt set included detailed requests for Security (OpSec) and Moni
 The research correctly identified the 2026 electricity tax cut (1.6 -> 0.71 DKK).
 - **Risk**: This is a policy variable. If this tax cut is rolled back in 2027/28, the operation becomes instantly insolvent ($100s loss/year).
 
-## 4. Conclusion
+## 5. Selective Mining Research
+Subsequent research into spot price optimization (`The spot price of electricity in denmark fluctuate.md`) confirmed that mining only during low-price hours (23:00-06:00) can generate a positive cash flow (~210 DKK/year). However, due to fixed maintenance costs, the **payback period remains >30 years**, confirming the "NO-GO" verdict.
+
+## 6. Conclusion
 The "NO-GO" decision is even stronger than the original research suggested, due to the revenue/cost file discrepancy. The project is effectively a mechanism for converting capital into heat and depreciation at a loss.

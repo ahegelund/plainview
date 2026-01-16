@@ -35,8 +35,8 @@ The following figures use verified conservative estimates for Monero (RandomX) m
 
 ### 3. Investment Analysis
 - **Payback Period**: **Infinite** (Operational Loss)
-- **Best Case Scenario**: If revenue is 50% higher than estimated (optimistic luck/pricing), annual profit becomes ~130 kr.
-    - Resulting Payback: **33 Years**.
+- **Optimized Strategy (Selective Mining)**: Mining only during cheap overnight hours (<0.50 DKK/kWh) yields a tiny annual profit of ~210 kr.
+    - Resulting Payback: **38 Years** (Still unviable).
 - **Risk**: If the 2026 electricity tax cut expires in 2028, operating costs double, guaranteeing heavy losses.
 
 ## Critical Discrepancy Note

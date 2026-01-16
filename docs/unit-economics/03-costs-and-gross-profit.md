@@ -60,3 +60,15 @@ Estimated at **€55 / 411 DKK** per year per rig.
 >
 > **For this ingestion, we report the conservative reality:**
 > At 635 DKK revenue and 815 DKK cost, **the operation is losing money gross**, before tax.
+
+## 4. Selective Mining Optimization (Spot Price Strategy)
+Research into hourly spot price fluctuation reveals a potential mitigation strategy: **Mining only during low-price hours** (typically 23:00-06:00).
+
+- **Viability Zone**: Hours where price < 0.50 DKK/kWh (~3,200 hours/year or 36% duty cycle).
+- **Economic Impact**:
+    - **Revenue**: Drops to ~733 DKK (pro-rated).
+    - **Electricity**: Drops to ~223 DKK (avg 0.45 DKK/kWh).
+    - **Maintenance**: **Remains largely fixed** (fan wear decreases, but thermal paste/dusting still required annually). Estimated at ~300 DKK.
+- **Result**:
+    - Net Profit: 733 (Rev) - 223 (Elec) - 300 (Maint) = **+210 DKK / year**.
+    - **Verdict**: Turns a loss into a tiny profit (€28/year), but still fails to pay back hardware (38 year payback). Detailed in `05-roi-risk-synthesis.md`.

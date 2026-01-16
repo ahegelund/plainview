@@ -29,6 +29,12 @@ The unit economics only work if:
 1. **Electricity is Free**: Reduces Opex to almost zero.
 2. **Hardware is Free**: Eliminates CapEx payback.
 3. **Speculative Moonshot**: You mine at a loss and XMR does a 10x price increase.
+- **Payback Period**: **Infinite** (Operational Loss)
+- **Scenario B (Selective Mining)**: Operating only 36% of the year (low tariff hours).
+    - Annual Profit: ~210 DKK.
+    - Payback: **38 Years**.
+- **Best Case Scenario**: If revenue is 50% higher than estimated (optimistic luck/pricing), annual profit becomes ~130 kr.
+    - Resulting Payback: **33 Years**.
 
 ## 4. Risks
 - **Electricity Price**: If the 2026 tax cut expires in 2028, costs double, ensuring total loss.
